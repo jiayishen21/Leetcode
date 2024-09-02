@@ -6,6 +6,7 @@ using namespace std;
 /*
 32. Longest Valid Parentheses
 Leetcode hard
+https://leetcode.com/problems/longest-valid-parentheses/description/
 time: 30 mins
 notes: forgot to check for (()()) at first
 */
